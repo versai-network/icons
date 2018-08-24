@@ -1,2 +1,2 @@
 # icons
-Just some simple icons for the server @VersaiPE
+Just some simple icons I made!
